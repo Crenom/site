@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <style>
+    body {
+       overflow-x: hidden;
+    }
+
+    section {
+      width: 50%;
+      margin: 0 auto;
+    }
+    h2 {
+      position: relative;
+      background: black;
+    }
+    h2:before, h2:after {
+      content: "";
+      position: absolute;
+      background: black;  /* Соответствует фону элемента h2 */
+      top: 0;
+      bottom: 0;
+      width: 9999px;   /* Очень большая ширина */
+    }
+    h2:before {
+      right: 100%;
+    }
+    h2:after {
+      left: 100%;
+    }
+  </style>
+</head>
+<body class="home blog" style="cursor: auto;">
+  <section>
+     <h2>Заголовок</h2>
+     <p>... Текст ... </p>
+     <h2>Заголовок</h2>
+     <p>... Текст ... </p>
+  </section>
+</body>
+</html>
