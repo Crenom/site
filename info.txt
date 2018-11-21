@@ -6,3 +6,5 @@ https://zarabotat-na-sajte.ru/uroki-php/kak-sdelat-sayt-na-php.html
 ---- bootstrap ----
 https://fructcode.com/ru/courses/bootstrap/getting-started/
 https://beonmax.com/ru/courses/bootstrap/?utm_source=ydir&utm_medium=yd03s_bs&utm_campaign=yd03s_bs_03&yclid=6918076548222835175
+https://habr.com/company/ruvds/blog/350758/
+https://html5css.ru/bootstrap4/default.php
